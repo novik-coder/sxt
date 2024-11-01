@@ -1,5 +1,0 @@
-DB_NAME=sxt
-DB_USER=sxt_user
-DB_PASSWORD=XeoxAOlVSsU5nOZwLQHMsMGOFZq4rEG0
-DB_HOST=dpg-csijfkt2ng1s739k8nq0-a
-DB_PORT=5432
